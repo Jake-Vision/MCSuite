@@ -1,0 +1,34 @@
+name: RonboCore
+main: me.ronbo.core.RonboCore
+version: 1.0
+description: Yeah fun!
+author: xRonbo
+commands:
+  flushjesper:
+  jesper:
+    aliases: [j, je]
+  setrank:
+  saki:
+  sakichat:
+    aliases: [sc]
+  tpto:
+  tphere:
+  hide:
+  togglemute:
+  show:
+  teleport:
+  changeworld:
+    aliases: [cw]
+  fly:
+  filter:
+  clearfilter:
+  ronbo:
+  loc:
+  spawnpoint:
+    aliases: [spawn]
+  setspawn:
+  flyspeed:
+    aliases: [speed]
+  report:
+  playtime:
+    aliases: [played, onlinetime, totalplay, playedtime, timeplayed, timeplay]
