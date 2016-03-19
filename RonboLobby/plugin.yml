@@ -1,0 +1,32 @@
+name: RonboLobby
+main: xronbo.ronbolobby.RonboLobby
+version: 1.0
+description: Yeah fun!
+author: xRonbo
+commands:
+  db:
+  updateinfo:
+  grapple:
+  bow:
+  pet:
+  disable:
+  enable:
+  targets:
+  ride:
+  name:
+  changeworld:
+  effects:
+    aliases: [effect]
+  voted:
+  hub:
+    aliases: [lobby]
+  connect:
+  dragon:
+    aliases: [ender, ridedragon, enderdragon]
+  givereward:
+  cc:
+    aliases: [channels, cc, changechannel]
+  reloadminigames:
+  jade:
+  onyx:
+  ruby:
